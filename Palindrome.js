@@ -5,5 +5,5 @@ function isPalindrome(str){
     return str === reverse;
 }
 
-console.log(isPalindrome("madam"))
+console.log(isPalindrome("mad"))
 console.log(isPalindrome("hellow"))
