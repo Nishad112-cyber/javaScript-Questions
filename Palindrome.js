@@ -6,4 +6,4 @@ function isPalindrome(str){
 }
 
 console.log(isPalindrome("madam"))
-console.log(isPalindrome("hellow"))
+console.log(isPalindrome("hell"))
