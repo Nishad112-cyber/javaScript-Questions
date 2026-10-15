@@ -5,3 +5,5 @@ function reverse(str){
 }
 
 console.log(reverse("hellow"));
+console.log(reverse("CarWash"));
+console.log(reverse("Temple"));
