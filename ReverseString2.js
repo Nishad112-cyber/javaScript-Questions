@@ -1,4 +1,4 @@
-let str = "Came";
+let str = "game";
 let reverse= "";
 for(let i= str.length-1; i>=0; i--){
     reverse += str[i];
