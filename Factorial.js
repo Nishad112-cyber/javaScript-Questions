@@ -11,6 +11,7 @@ function factorial(n){
 
 console.log(factorial(6));
 console.log(factorial(4));
+console.log(factorial(9));
 
 
 
